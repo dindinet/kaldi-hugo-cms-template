@@ -28,7 +28,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Latitude", name: "latitude", widget: "text"}
       - {label: "Longitude", name: "longitude", widget: "text"}
-      - {label: "Image", name: "image", widget: "text", required: false}
+      - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
