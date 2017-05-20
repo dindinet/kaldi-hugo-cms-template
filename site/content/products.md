@@ -97,6 +97,15 @@ pricing:
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '?'
+      price: '95'
+    - description: >-
+        For the connoisseur of the bean. We hear you and feel your pain. You
+        want the best.
+      items:
+        - better than
+        - bigger than
+        - coffee without compromise
+      plan: Emporial
+      price: '200'
 ---
 
