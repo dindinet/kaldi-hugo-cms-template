@@ -2,7 +2,7 @@
 import React from "react";
 import format from "date-fns/format";
 
-export default class PlacePreview extends React.Component {
+export default class PostPreview extends React.Component {
   render() {
     const {entry, widgetFor} = this.props;
 
