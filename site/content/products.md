@@ -105,7 +105,7 @@ pricing:
         - better than
         - bigger than
         - coffee without compromise
-      plan: Emporial
+      plan: Bean Master
       price: '200'
 ---
 
