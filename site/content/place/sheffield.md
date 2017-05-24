@@ -5,7 +5,7 @@ place type: City
 description: Sheffield is a nice green city in the North Midlands of England
 latitude: '53.380454'
 longitude: '-1.4723247'
-image: 'https://c1.staticflickr.com/3/2809/13413433984_d8b4511880_b.jpg'
+image: /img/UK-Multimodal-Gateway-Essex-Logo-RGB.jpg
 ---
 
 Sheffield is a city and metropolitan borough in South Yorkshire, England. It is the city where I live. Historically part of the West Riding of Yorkshire, its name derives from the River Sheaf, which runs through the city. With some of its southern suburbs annexed from Derbyshire, the city has grown from its largely industrial roots to encompass a wider economic base. The population of the City of Sheffield is 569,700 (mid-2015 est.)\[2\] and it is one of the eight largest regional English cities that make up the Core Cities Group.\[3\] Sheffield is the third largest English district by population. The metropolitan population of Sheffield is 1,569,000.\[1\]
