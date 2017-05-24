@@ -1,0 +1,15 @@
+AN IMAGE COMPONENT FOR NETLIFY CMS
+
+Written in React
+
+Fetch images from cloud (google)
+
+User interface to google cloud POPUP
+
+returns json with all selected images
+inject imageurl/widget into
+
+Repeatable React component to display returned urls as thumbnails.
+Allow changeing order of images by dragging and dropping
+of thumbnails.
+Allow deletion of image by deleting thumbnail component.
