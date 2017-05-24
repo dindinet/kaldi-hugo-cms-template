@@ -1,7 +1,7 @@
 ---
 title: Sheffield
 date: 2017-05-20T15:07:10.000Z
-place type: City
+place_type: City
 description: Sheffield is a nice green city in the North Midlands of England
 latitude: '53.380454'
 longitude: '-1.4723247'
