@@ -3,8 +3,8 @@ title: 'Just in: small batch of Jamaica Blue Mountain in store next week'
 date: 2017-01-04T15:04:10.000Z
 description: >-
   We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week. We are roasting it now. The
-  aroma is intoxicating.
+  Mountain coffee beans in our store next week. We are roasting a sample now.
+  The aroma is intoxicating.
 image: >-
   https://lh3.googleusercontent.com/1cW8UZ6eG0BoBWOoXcJxjB6yOBNIQlR-KfBBGm__Dup0yDOrMTLNMK-YVaOK8RbTG68uzXiBsMCSIjk=w1100-rj-e30
 ---
