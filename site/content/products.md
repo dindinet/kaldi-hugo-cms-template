@@ -3,7 +3,7 @@ title: Our Coffee and Some
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: 'What we offer, innit?'
+heading: What we offer in the Coffee Universe
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -38,14 +38,14 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: 'What we offer, innit?'
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
 main:
-  heading: Great coffee with no compromises
+  heading: Great coffee with no compromises and no tea
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
