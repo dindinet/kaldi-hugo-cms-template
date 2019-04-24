@@ -1,14 +1,10 @@
 ---
-title: Our Coffee and Some
+title: Cloud Hosted Websites
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: What we offer in the Coffee Universe
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+heading: What we offer to businesses of the world
+description: doop
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
