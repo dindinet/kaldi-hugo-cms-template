@@ -3,17 +3,12 @@ title: Cloud Hosted Websites
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: What we offer to businesses of the world
+heading: What we offer the world
 description: doop
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: "Fast\ntime is money\n\uD83D\uDD36 Search engines promote fast sites over slow sites. \n\uD83D\uDD36 When websites are slow to load, they cost the owner dear. Impatient visitors will bounce to competitor sites. "
     - image: /img/illustrations/coffee-gear.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -34,12 +29,9 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer to the world's coffee lovers?
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. Especially you.
+  heading: What we offer the world
+  description: |
+    Cloud hosted static websites
 main:
   heading: Great coffee with no compromises and no tea
   description: >
